@@ -1,4 +1,4 @@
-import { MESSAGES, MESSAGES_BG_COLORS, showInfoMessage } from './helpers';
+import { MESSAGES, MESSAGES_BG_COLORS, showInfoMessage } from './js/helpers';
 
 const options = {
   method: 'GET',
